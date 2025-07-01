@@ -3,7 +3,7 @@ import { Metadata } from 'next';
 import { Providers } from '@/components/Providers';
 
 export const metadata: Metadata = {
-  title: 'OchoOcho21 | Aaron Ochoa Cloud',
+  title: 'AaronOchoa Cloud',
   description: 'Personal Cloud Storage',
   icons: {
     icon: '/favicon.ico',
